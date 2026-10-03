@@ -2,6 +2,13 @@
 
 > **Turn any AI Chatbot into Claude Code CLI through an intelligent terminal copy-paste loop.**
 
+---
+
+### 🌐 Translations
+[ English ](README.md) • [ বাংলা ](README.bn.md) • [ Español ](README.es.md) • [ 简体中文 ](README.zh.md) • [ हिन्दी ](README.hi.md) • [ Français ](README.fr.md) • [ Deutsch ](README.de.md) • [ 日本語 ](README.ja.md) • [ Português ](README.pt.md) • [ Русский ](README.ru.md) • [ العربية ](README.ar.md)
+
+---
+
 **`chat-claude-code`** is an agentic workflow skill and prompt system designed for developers who do not have direct access to automated CLI tools (such as Claude Code CLI) and want to use standard AI chatbots (Claude Web, ChatGPT, Gemini, etc.) to inspect, debug, refactor, and scaffold codebases directly through their local terminal.
 
 ---
@@ -135,5 +142,15 @@ The AI will generate a single comprehensive setup script that:
 ```
 chat-claude-code/
 ├── chat-claude-code.skill   # Compressed Skill Package (contains SKILL.md)
-└── README.md                # Comprehensive English documentation and guide
+├── README.md                # English Documentation
+├── README.bn.md             # Bengali (বাংলা)
+├── README.es.md             # Spanish (Español)
+├── README.zh.md             # Chinese (简体中文)
+├── README.hi.md             # Hindi (हिन्दी)
+├── README.fr.md             # French (Français)
+├── README.de.md             # German (Deutsch)
+├── README.ja.md             # Japanese (日本語)
+├── README.pt.md             # Portuguese (Português)
+├── README.ru.md             # Russian (Русский)
+└── README.ar.md             # Arabic (العربية)
 ```
