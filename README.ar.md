@@ -2,6 +2,13 @@
 
 > **حوّل أي روبوت دردشة مدعوم بالذكاء الاصطناعي إلى Claude Code CLI من خلال حلقة ذكية للنسخ واللصق عبر الطرفية.**
 
+<p align="left">
+  <a href="https://www.supportkori.com/apon133" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FF5E5B?style=for-the-badge&logo=heart&logoColor=white" alt="Support Me on SupportKori" />
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 الترجمات / Translations

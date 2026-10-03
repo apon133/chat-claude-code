@@ -2,6 +2,13 @@
 
 > **एक स्मार्ट टर्मिनल कॉपी-पेस्ट लूप के माध्यम से किसी भी AI चैटबॉट को Claude Code CLI में बदलें।**
 
+<p align="left">
+  <a href="https://www.supportkori.com/apon133" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FF5E5B?style=for-the-badge&logo=heart&logoColor=white" alt="Support Me on SupportKori" />
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 भाषा अनुवाद / Translations

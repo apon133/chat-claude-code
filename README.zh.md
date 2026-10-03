@@ -2,6 +2,13 @@
 
 > **通过智能终端复制-粘贴循环，将任何 AI 聊天机器人转变为 Claude Code CLI。**
 
+<p align="left">
+  <a href="https://www.supportkori.com/apon133" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FF5E5B?style=for-the-badge&logo=heart&logoColor=white" alt="Support Me on SupportKori" />
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 多语言翻译 / Translations

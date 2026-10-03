@@ -2,6 +2,13 @@
 
 > **Verwandeln Sie jeden KI-Chatbot über eine intelligente Terminal-Copy-Paste-Schleife in Claude Code CLI.**
 
+<p align="left">
+  <a href="https://www.supportkori.com/apon133" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FF5E5B?style=for-the-badge&logo=heart&logoColor=white" alt="Support Me on SupportKori" />
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 Übersetzungen / Translations

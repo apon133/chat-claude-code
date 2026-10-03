@@ -2,6 +2,13 @@
 
 > **スマートなターミナル・コピペループにより、あらゆるAIチャットボットをClaude Code CLIに変身させます。**
 
+<p align="left">
+  <a href="https://www.supportkori.com/apon133" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FF5E5B?style=for-the-badge&logo=heart&logoColor=white" alt="Support Me on SupportKori" />
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 多言語翻訳 / Translations

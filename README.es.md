@@ -2,6 +2,13 @@
 
 > **Convierte cualquier chatbot de IA en Claude Code CLI mediante un bucle inteligente de copiar y pegar en la terminal.**
 
+<p align="left">
+  <a href="https://www.supportkori.com/apon133" target="_blank">
+    <img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FF5E5B?style=for-the-badge&logo=heart&logoColor=white" alt="Support Me on SupportKori" />
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 Traducciones
